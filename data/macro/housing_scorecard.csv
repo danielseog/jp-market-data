@@ -1,1 +1,194 @@
 series_id,period,value,unit,source,source_url,retrieved_at,note
+reins_cap_resale_contract_n,2025-09,4475,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2025-10,4222,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2025-11,4435,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2025-12,3975,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-01,3343,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-02,4241,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-03,5001,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-04,3903,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-05,3709,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-06,4241,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-07,3638,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-08,3180,count,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16897,2026-10-25,via PR BASE write-up of REINS 2026-08 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_n,2026-09,3457,count,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary; REINS notes 2025-01 system change may affect contract counts
+reins_cap_resale_contract_psm,2025-09,85.18,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2025-10,85.35,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2025-11,82.22,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2025-12,85.08,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-01,86.99,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-02,85.61,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-03,86.34,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-04,85.93,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-05,80.78,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-06,82.64,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-07,84.17,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_psm,2026-08,81.6,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16897,2026-10-25,via PR BASE write-up of REINS 2026-08 summary
+reins_cap_resale_contract_psm,2026-09,81.07,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary
+reins_cap_resale_contract_price,2025-09,5352,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2025-10,5325,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2025-11,5204,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2025-12,5340,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-01,5493,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-02,5458,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-03,5521,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-04,5321,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-05,5067,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-06,5208,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-07,5267,JPY 10k,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_contract_price,2026-08,5129,JPY 10k,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16897,2026-10-25,via PR BASE write-up of REINS 2026-08 summary
+reins_cap_resale_contract_price,2026-09,5111,JPY 10k,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary
+reins_cap_resale_new_listings,2025-09,15356,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2025-10,15959,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2025-11,14673,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2025-12,14601,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-01,15514,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-02,15453,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-03,16607,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-04,16142,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-05,15504,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-06,16277,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_new_listings,2026-07,16474,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2025-09,43850,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2025-10,43669,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2025-11,43156,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2025-12,43381,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-01,44776,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-02,45112,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-03,44728,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-04,45215,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-05,45804,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-06,45995,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-07,47151,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_cap_resale_inventory,2026-08,48235,count,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16897,2026-10-25,via PR BASE write-up of REINS 2026-08 summary
+reins_cap_resale_inventory,2026-09,50450,count,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary
+reins_23k_resale_contract_n,2025-09,1995,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2025-10,1836,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2025-11,1853,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2025-12,1695,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-01,1433,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-02,1817,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-03,2145,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-04,1635,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-05,1452,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-06,1716,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-07,1509,count,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_n,2026-09,1385,count,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary; REINS notes 2025-01 system change may affect contract counts
+reins_23k_resale_contract_psm,2025-09,131.54,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2025-10,135.03,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2025-11,130.96,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2025-12,135.61,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-01,137.5,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-02,133.37,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-03,136.1,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-04,137.46,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-05,131.24,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-06,131.15,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-07,135.77,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://www.reins.or.jp/pdf/trend/mw/mw_202607_summary.pdf,2026-10-25,from 13-month table in 2026-07 summary
+reins_23k_resale_contract_psm,2026-08,132.69,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16897,2026-10-25,via PR BASE write-up of REINS 2026-08 summary
+reins_23k_resale_contract_psm,2026-09,130.39,JPY 10k/sqm,東日本レインズ 月例速報 Market Watch,https://prbase-realestate.com/?p=16971,2026-10-25,via PR BASE write-up of REINS 2026-09 summary
+fkk_cap_new_supply,2025-09,1908,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2025-10,1316,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2025-11,1910,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2025-12,5468,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-01,628,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-02,1762,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-03,1425,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-04,1163,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-05,1447,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-06,1564,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-07,2145,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_supply,2026-08,1140,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://ulsta.jp/column/shutoken-shinchiku-mansion-2026-08-keiyakuritsu-61-1pct-5000-6000man-dai-urenokori/,2026-10-25,via ulsta.jp write-up of 2026-09-17 release
+fkk_cap_new_supply,2026-09,1142,units,不動産経済研究所 首都圏新築分譲マンション市場動向,https://agora-web.jp/archives/261020201001.html,2026-10-25,via Agora write-up of 2026-10-20 release
+fkk_cap_new_price,2025-09,9956,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2025-10,9895,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2025-11,9181,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2025-12,8469,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-01,8383,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-02,11025,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-03,10413,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-04,8736,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-05,10660,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-06,10137,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-07,16493,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_new_price,2026-08,9770,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://ulsta.jp/column/shutoken-shinchiku-mansion-2026-08-keiyakuritsu-61-1pct-5000-6000man-dai-urenokori/,2026-10-25,via ulsta.jp write-up of 2026-09-17 release
+fkk_cap_new_price,2026-09,9552,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://agora-web.jp/archives/261020201001.html,2026-10-25,via Agora write-up of 2026-10-20 release
+fkk_cap_new_psm,2025-09,146.5,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2025-10,153.8,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2025-11,145.8,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2025-12,126.5,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-01,124.9,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-02,162.5,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-03,159.7,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-04,130.6,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-05,156.3,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-06,153.0,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-07,236.9,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue); converted from JPY 1k/sqm
+fkk_cap_new_psm,2026-08,144.4,JPY 10k/sqm,不動産経済研究所 首都圏新築分譲マンション市場動向,https://ulsta.jp/column/shutoken-shinchiku-mansion-2026-08-keiyakuritsu-61-1pct-5000-6000man-dai-urenokori/,2026-10-25,via ulsta.jp write-up of 2026-09-17 release
+fkk_cap_first_month_rate,2025-09,54.4,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2025-10,63.0,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2025-11,60.2,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2025-12,63.1,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-01,55.7,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-02,71.7,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-03,64.5,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-04,62.3,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-05,64.9,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-06,62.5,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-07,69.5,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file (2026-09 issue)
+fkk_cap_first_month_rate,2026-08,61.1,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://ulsta.jp/column/shutoken-shinchiku-mansion-2026-08-keiyakuritsu-61-1pct-5000-6000man-dai-urenokori/,2026-10-25,via ulsta.jp write-up of 2026-09-17 release
+fkk_cap_first_month_rate,2026-09,50.4,%,不動産経済研究所 首都圏新築分譲マンション市場動向,https://agora-web.jp/archives/261020201001.html,2026-10-25,via Agora write-up of 2026-10-20 release
+fkk_23k_new_price,2026-07,26520,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://www.haseko.co.jp/hri/pdf/data-shijo-doko-e-202607.pdf,2026-10-25,FKK data reproduced in Haseko HRI data file
+fkk_23k_new_price,2026-08,13821,JPY 10k,不動産経済研究所 首都圏新築分譲マンション市場動向,https://ulsta.jp/column/shutoken-shinchiku-mansion-2026-08-keiyakuritsu-61-1pct-5000-6000man-dai-urenokori/,2026-10-25,via ulsta.jp write-up
+kantei_23k_ask_70,2026-01,12123,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260219.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-01,6672,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260219.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-02,12349,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260324.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-02,6924,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260324.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-03,12425,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/20260423.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-03,7032,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/20260423.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-04,12724,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260521.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-04,7225,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260521.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-05,12849,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260623.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-05,7360,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260623.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-06,12741,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.mec-h.com/news/40,2026-10-25,via mec-h.com summary
+kantei_cap_ask_70,2026-06,7454,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.mec-h.com/news/40,2026-10-25,via mec-h.com summary
+kantei_23k_ask_70,2026-07,12724,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260824.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-07,7547,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260824.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-08,12677,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260924.html,2026-10-25,nomu.com report library
+kantei_cap_ask_70,2026-08,7606,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.nomu.com/mansion/library/trend/report/70m2_20260924.html,2026-10-25,nomu.com report library
+kantei_23k_ask_70,2026-09,12629,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.kantei.ne.jp/report/category/70m2/,2026-10-25,"Kantei release list, 2026-10-22"
+kantei_cap_ask_70,2026-09,7773,JPY 10k,東京カンテイ 中古マンション70㎡換算価格,https://www.kantei.ne.jp/report/category/70m2/,2026-10-25,"Kantei release list, 2026-10-22"
+athome_23k_ask,2026-08,8950,JPY 10k,アットホーム 首都圏 中古マンション 価格動向,https://www.athome.co.jp/corporate/wp-content/themes/news/pdf/chuuko-mansion-202608/chuuko-mansion-202608.pdf,2026-10-25,"MoM +0.7%, YoY +21.8% per release"
+flat35_min_rate,2025-09,1.89,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2025-10,1.89,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2025-11,1.9,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2025-12,1.97,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-01,2.08,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-02,2.26,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-03,2.25,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-04,2.49,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-05,2.71,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-06,3.21,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-07,3.14,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-08,3.29,%,住宅金融支援機構 (0systems record table),https://0systems.com/interest-rate-table/Flat35/record/,2026-10-25,"secondary table; tier not labelled, matches nomu.com for 2026-09/10 and June +0.5pt"
+flat35_min_rate,2026-09,3.46,%,住宅金融支援機構 (coverage),https://www.nomu.com/news/20261002.html,2026-10-25,"21-35y, LTV<=90%; Oct +0.37pt vs Sep per nomu; also in 0systems table"
+flat35_min_rate,2026-10,3.83,%,住宅金融支援機構 (coverage),https://www.nomu.com/news/20261002.html,2026-10-25,"21-35y, LTV<=90%; Oct +0.37pt vs Sep per nomu; also in 0systems table"
+jgb10y_eom,2026-08,2.94,%,日本相互証券 新発10年国債 終値,https://www.bb.jbts.co.jp/ja/historical/main_rate.html,2026-10-25,2026-08-31 close
+jgb10y_eom,2026-09,3.05,%,日本相互証券 新発10年国債 終値,https://www.bb.jbts.co.jp/ja/historical/main_rate.html,2026-10-25,2026-09-30 close
+boj_policy_rate,2026-08,1.0,%,日本銀行 (Kyodo coverage),https://kumanichi.com/articles/2037289,2026-10-25,rate before 2026-09-18 hike
+boj_policy_rate,2026-09,1.25,%,日本銀行 (Kyodo coverage),https://kumanichi.com/articles/2037289,2026-10-25,raised 1.0% -> 1.25% on 2026-09-18
+jreit_mfaf_px,2025-09,132000,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2025-10,129800,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2025-11,132900,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2025-12,134400,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-01,138300,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-02,137900,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-03,133400,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-04,130700,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-05,125900,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-06,121900,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-07,122800,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-08,118800,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_mfaf_px,2026-09,113900,JPY,TSE (kabutan monthly bars),https://s.kabutan.jp/stocks/3226/historical_prices/monthly/,2026-10-25,month-end close
+jreit_adr_px,2026-08,145400,JPY,TSE (Yahoo!ファイナンス),https://finance.yahoo.co.jp/quote/3269.T/history,2026-10-25,2026-08-31 close
+tse_reit_index,2026-09,1707.14,pts,TSE REIT Index (price),https://stock-marketdata.com/reit.html,2026-10-25,"2026-09-30 close; matsui.co.jp shows same index at 1,670.65 on 2026-10-23"
