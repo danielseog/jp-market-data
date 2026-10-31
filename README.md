@@ -3,7 +3,7 @@
 Japan residential market data, collected for objective, empirical checks on Japan deals and underwriting.
 
 ## Pipelines
-1. J-REIT data (yields, rents, renewals, growth)
+1. J-REIT data (yields, rents, renewals, growth): `data/jreit/` (residential J-REITs; sources, definitions and gaps in `data/jreit/README.md`)
 2. TMF comparables (listing sites)
 3. LSFA comparables (competitors, listing sites)
 4. LSFA supply in other markets
