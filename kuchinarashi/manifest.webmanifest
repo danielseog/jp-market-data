@@ -1,0 +1,17 @@
+{
+  "name": "口慣らし Kuchinarashi",
+  "short_name": "口慣らし",
+  "description": "Spoken Japanese drills: say it, check it, hear it.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15171d",
+  "theme_color": "#15171d",
+  "lang": "ja",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
